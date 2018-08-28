@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="channelLayout_h">30dp</dimen>
+    <dimen name="channelButtonSize">25dp</dimen>
+</resources>

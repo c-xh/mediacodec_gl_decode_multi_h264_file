@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--format:-->
+    <!--reference：参考某一资源ID。-->
+    <!--color：颜色值。-->
+    <!--boolean：布尔值-->
+    <!--dimension：尺寸值-->
+    <!--float：浮点值-->
+    <!--integer：整型值-->
+    <!--string：字符串-->
+    <!--fraction：百分数-->
+    <!--enum：枚举值-->
+    <!--flag：位或运算-->
+
+
+    <!--视频标题栏控件设置属性集合-->
+    <declare-styleable name="MyGLSurfaceView">
+        <attr name="MyGLSurfaceView_num" format = "integer"/>
+        <attr name="MyGLSurfaceView_ID" format = "integer"/>
+    </declare-styleable>
+</resources>
